@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+
+    background: #00ff44;
+
+    color: floralwhite;
+
+
+    font-style: italic;
+
+
+}
+
+#app {
+    width: 100%;
+
+    height: 1600px;
+
+    background: blue;
+
+
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#games {
+
+    width: 100%;
+
+    height: 500px;
+
+    background: #e84343;
+}
+img {
+    width: 300px;
+}
+img:hover {
+    transform: scale(0.9);
+}
+#chatbot{
+    width: 100%;
+    height: 800px;
+    background: purple;
+}
